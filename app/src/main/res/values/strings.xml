@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidFragmentTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_txt1">Показать картинку 1</string>
+    <string name="btn_txt2">Показать картинку 2</string>
+
+</resources>

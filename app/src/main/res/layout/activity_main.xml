@@ -1,0 +1,24 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+   <fragment
+       android:name="com.example.vas.androidfragmenttest.ButtonFragment"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:id="@+id/button_fragment"
+       tools:layout="@layout/button_layout" />
+    <fragment
+        android:name="com.example.vas.androidfragmenttest.ImageFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/image_fragment"
+        tools:layout="@layout/image_layout" />
+
+
+
+</LinearLayout>
+
